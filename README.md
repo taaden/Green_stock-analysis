@@ -36,4 +36,4 @@
   ###### Advantage of the Original Code
        *it is simpler and easier to use
   ###### Disadvantage of the Original Code
-       *its execution is slow and has a lot of redundant and repetitive code
+       *its execution was slow and has a lot of redundant and repetitive codes
